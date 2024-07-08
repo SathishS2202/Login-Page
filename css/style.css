@@ -1,0 +1,49 @@
+
+main {
+    padding: 20px;
+    text-align: center;
+    border: 10px solid rgb(150, 68, 228);
+    align-content: center;
+    margin: 150px 450px 0 500px;
+}
+
+.main section {
+    margin: 20px 0;
+}
+
+
+.contact-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.contact-container label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+
+.contact-container input
+ {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.contact-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #9c2ca7;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+img{
+    width:50px;
+}
+
+
